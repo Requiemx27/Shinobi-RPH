@@ -1,0 +1,6 @@
+{
+  "name": "Shinobi Chronicles — Naruto Play-by-Forum RPG",
+  "description": "RPG Play-by-Forum de Naruto com criação de personagem, todos os clãs e vilas, combates por turno com cálculo de acerto, jutsus, economia, chat em tempo real e analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
